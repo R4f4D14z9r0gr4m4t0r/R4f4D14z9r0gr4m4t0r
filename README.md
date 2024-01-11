@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R4f4D14z9r0gr4m4t0r 
 - 👀 I’m interested in ...> Learn more every day.
-- 🌱 I’m currently learning ...>  Structured Programming and Algorithms: C Language.
+- 🌱 I’m currently learning ...>  Structured Programming and Algorithms: C Language and PYTHON.
 - 💞️ I’m looking to collaborate on ...> In new projects to help you and gain experience.
 - 📫 How to reach me ...> find it out.
 
